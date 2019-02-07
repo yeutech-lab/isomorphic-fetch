@@ -18,6 +18,9 @@
     "url": "https://github.com/matthew-andrews/isomorphic-fetch/issues"
   },
   "homepage": "https://github.com/matthew-andrews/isomorphic-fetch/issues",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "node-fetch": "^1.0.1",
     "whatwg-fetch": "2.0.4"
