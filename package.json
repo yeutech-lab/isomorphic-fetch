@@ -22,7 +22,7 @@
     "access": "public"
   },
   "dependencies": {
-    "node-fetch": "^1.0.1",
+    "node-fetch": "^2.6.1",
     "whatwg-fetch": "2.0.4"
   },
   "devDependencies": {
